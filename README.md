@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pereraange
 - 👀 I’m interested in graphic designing and mathematics
-- 🌱 I’m currently learning Biomedical Engineering at General sir John Kotelawela Defence University
+- 🌱 I’m currently a Biomedical Engineering undergraduate at General sir John Kotelawala Defence University
 - 📫 reach me on stephenshaneangelo@gmail.com
 
 <!---
