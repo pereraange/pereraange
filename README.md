@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pereraange
-- 👀 I’m interested in graphic designing and mathematics
+- 👀 I’m interested in biomechanics, biomedical signal processing and image processing, bioinformatics and medical instrumentation.
 - 🌱 I’m currently a Biomedical Engineering undergraduate at General sir John Kotelawala Defence University
-- 📫 reach me on stephenshaneangelo@gmail.com
+- 📫 reach me on sangeloperera@gmail.com
 
 <!---
 pereraange/pereraange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
