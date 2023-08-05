@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pereraange
-- 👀 I’m interested in biomechanics, biomedical signal processing and image processing, bioinformatics and medical instrumentation.
-- 🌱 I’m currently a Biomedical Engineering undergraduate at General sir John Kotelawala Defence University
+- I'm Angelo Perera a final year Biomedical Engineering undergraduate. I'm passionate about what I do and always try to walk the extra mile to learn and explore new things. I do not want to limit myself to one thing; instead, I want to hustle and educate myself with everything related to my subject. I am interested in biomedical instrumentation, Machine learning, and AI in medical engineering, Biomechanics, and Biomedical Signal Processing.
 - 📫 reach me on sangeloperera@gmail.com
 
 <!---
