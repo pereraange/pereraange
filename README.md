@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pereraange
-- I'm Angelo Perera a final year Biomedical Engineering undergraduate. I'm passionate about what I do and always try to walk the extra mile to learn and explore new things. I do not want to limit myself to one thing; instead, I want to hustle and educate myself with everything related to my subject. I am interested in biomedical instrumentation, Machine learning, and AI in medical engineering, Biomechanics, and Biomedical Signal Processing.
+- I'm Angelo Perera, a final-year Biomedical Engineering undergraduate. I'm genuinely passionate about my work in the health sector, seeing it as a profound responsibility rather than just a job. I find great joy in extending a helping hand to improve people's lives. My interests lie in medical instrumentation, Artificial Intelligence in healthcare, biomedical signal processing, and medical image processing. I thrive on challenges and am always ready to provide unwavering support to achieve the organization's objectives. My goal is to positively impact health care through my dedication, knowledge, and enthusiasm.
 - 📫 reach me on sangeloperera@gmail.com
 
 <!---
